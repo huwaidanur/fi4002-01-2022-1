@@ -58,10 +58,10 @@ ax.scatter(x_inside, y_inside, color='g', marker='s')
 ax.scatter(x_outside, y_outside, color='r', marker='s')
 
 plt.draw()
-
+```
 Hasilnya adalah
 
-![image](https://user-images.githubusercontent.com/111943398/196588526-e8c26abf-e16c-4c54-bc94-3d804476c37c.png)
+![Metode Monte Carlo - contoh program python](https://user-images.githubusercontent.com/111943398/196591951-3674ceef-2d06-4f8c-ba70-563a12985fde.png)
 
 
 
